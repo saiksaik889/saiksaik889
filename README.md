@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiksaik889
+- 👋 Hi, I’m @sakinamsai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on interesting projects.
